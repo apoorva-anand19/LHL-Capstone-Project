@@ -1,0 +1,406 @@
+id,first_name,last_name,position,height,weight,jersey_number,college,country,draft_year,draft_round,draft_number,team.id,team.conference,team.division,team.city,team.name,team.full_name,team.abbreviation
+3,Steven,Adams,C,6-11,265,12,Pittsburgh,New Zealand,2013,1.0,12.0,11,West,Southwest,Houston,Rockets,Houston Rockets,HOU
+4,Bam,Adebayo,C-F,6-9,255,13,Kentucky,USA,2017,1.0,14.0,16,East,Southeast,Miami,Heat,Miami Heat,MIA
+8,Grayson,Allen,G,6-4,198,8,Duke,USA,2018,1.0,21.0,24,West,Pacific,Phoenix,Suns,Phoenix Suns,PHX
+9,Jarrett,Allen,C,6-9,243,31,Texas,USA,2017,1.0,22.0,6,East,Central,Cleveland,Cavaliers,Cleveland Cavaliers,CLE
+12,Kyle,Anderson,F,6-9,230,1,UCLA,USA,2014,1.0,30.0,18,West,Northwest,Minnesota,Timberwolves,Minnesota Timberwolves,MIN
+15,Giannis,Antetokounmpo,F,6-11,243,34,Filathlitikos,Greece,2013,1.0,15.0,17,East,Central,Milwaukee,Bucks,Milwaukee Bucks,MIL
+18,OG,Anunoby,F,6-7,240,8,Indiana,United Kingdom,2017,1.0,23.0,20,East,Atlantic,New York,Knicks,New York Knicks,NYK
+22,Deandre,Ayton,C,7-0,247,2,Arizona,Bahamas,2018,1.0,1.0,25,West,Northwest,Portland,Trail Blazers,Portland Trail Blazers,POR
+24,Marvin,Bagley III,F,6-10,235,35,Duke,USA,2018,1.0,2.0,30,East,Southeast,Washington,Wizards,Washington Wizards,WAS
+27,Lonzo,Ball,G,6-6,190,2,UCLA,USA,2017,1.0,2.0,5,East,Central,Chicago,Bulls,Chicago Bulls,CHI
+28,Mo,Bamba,C,7-0,231,5,Texas,USA,2018,1.0,6.0,23,East,Atlantic,Philadelphia,76ers,Philadelphia 76ers,PHI
+30,Harrison,Barnes,F,6-8,225,40,North Carolina,USA,2012,1.0,7.0,26,West,Pacific,Sacramento,Kings,Sacramento Kings,SAC
+32,Keita,Bates-Diop,F,6-8,229,13,Ohio State,USA,2018,2.0,48.0,3,East,Atlantic,Brooklyn,Nets,Brooklyn Nets,BKN
+33,Nicolas,Batum,F-G,6-8,230,40,Le Mans,France,2008,1.0,25.0,23,East,Atlantic,Philadelphia,76ers,Philadelphia 76ers,PHI
+37,Bradley,Beal,G,6-4,207,3,Florida,USA,2012,1.0,3.0,24,West,Pacific,Phoenix,Suns,Phoenix Suns,PHX
+38,Malik,Beasley,G,6-4,187,5,Florida State,USA,2016,1.0,19.0,17,East,Central,Milwaukee,Bucks,Milwaukee Bucks,MIL
+44,Davis,Bertans,F,6-10,225,9,Baskonia,Latvia,2011,2.0,42.0,4,East,Southeast,Charlotte,Hornets,Charlotte Hornets,CHA
+45,Patrick,Beverley,G,6-2,180,21,Arkansas,USA,2009,2.0,42.0,17,East,Central,Milwaukee,Bucks,Milwaukee Bucks,MIL
+48,Bismack,Biyombo,C,6-8,255,15,Baloncesto Fuenlabrada,DRC,2011,1.0,7.0,21,West,Northwest,Oklahoma City,Thunder,Oklahoma City Thunder,OKC
+53,Bogdan,Bogdanovic,G,6-5,225,13,Fenerbahce,Serbia,2014,1.0,27.0,1,East,Southeast,Atlanta,Hawks,Atlanta Hawks,ATL
+54,Bojan,Bogdanovic,F,6-7,226,44,Fenerbahce,Croatia,2011,2.0,31.0,20,East,Atlantic,New York,Knicks,New York Knicks,NYK
+57,Devin,Booker,G,6-6,206,1,Kentucky,USA,2015,1.0,13.0,24,West,Pacific,Phoenix,Suns,Phoenix Suns,PHX
+61,Mikal,Bridges,F,6-6,209,1,Villanova,USA,2018,1.0,10.0,3,East,Atlantic,Brooklyn,Nets,Brooklyn Nets,BKN
+62,Miles,Bridges,F,6-7,225,0,Michigan State,USA,2018,1.0,12.0,4,East,Southeast,Charlotte,Hornets,Charlotte Hornets,CHA
+65,Malcolm,Brogdon,G,6-4,229,11,Virginia,USA,2016,2.0,36.0,25,West,Northwest,Portland,Trail Blazers,Portland Trail Blazers,POR
+66,Dillon,Brooks,G-F,6-6,225,9,Oregon,Canada,2017,2.0,45.0,11,West,Southwest,Houston,Rockets,Houston Rockets,HOU
+68,Troy,Brown Jr.,F,6-7,215,7,Oregon,USA,2018,1.0,15.0,9,East,Central,Detroit,Pistons,Detroit Pistons,DET
+69,Bruce,Brown,G,6-4,202,11,Miami,USA,2018,2.0,42.0,28,East,Atlantic,Toronto,Raptors,Toronto Raptors,TOR
+70,Jaylen,Brown,G,6-6,223,7,California,USA,2016,1.0,3.0,2,East,Atlantic,Boston,Celtics,Boston Celtics,BOS
+73,Jalen,Brunson,G,6-2,190,11,Villanova,USA,2018,2.0,33.0,20,East,Atlantic,New York,Knicks,New York Knicks,NYK
+74,Thomas,Bryant,C,6-10,248,31,Indiana,USA,2017,2.0,42.0,16,East,Southeast,Miami,Heat,Miami Heat,MIA
+75,Reggie,Bullock,G-F,6-6,205,25,North Carolina,USA,2013,1.0,25.0,11,West,Southwest,Houston,Rockets,Houston Rockets,HOU
+77,Alec,Burks,G,6-5,214,18,Colorado,USA,2011,1.0,12.0,20,East,Atlantic,New York,Knicks,New York Knicks,NYK
+79,Jimmy,Butler,G-F,6-7,230,22,Marquette,USA,2011,1.0,30.0,16,East,Southeast,Miami,Heat,Miami Heat,MIA
+81,Kentavious,Caldwell-Pope,G,6-5,204,5,Georgia,USA,2013,1.0,8.0,8,West,Northwest,Denver,Nuggets,Denver Nuggets,DEN
+83,Clint,Capela,C,6-10,256,15,Elan Chalon,Switzerland,2014,1.0,25.0,1,East,Southeast,Atlanta,Hawks,Atlanta Hawks,ATL
+85,Wendell,Carter Jr.,F,6-10,270,34,Duke,USA,2018,1.0,7.0,22,East,Southeast,Orlando,Magic,Orlando Magic,ORL
+87,Jevon,Carter,G,6-1,200,5,West Virginia,USA,2018,2.0,32.0,5,East,Central,Chicago,Bulls,Chicago Bulls,CHI
+100,Jordan,Clarkson,G,6-3,194,00,Missouri,USA,2014,2.0,46.0,29,West,Northwest,Utah,Jazz,Utah Jazz,UTA
+101,John,Collins,F-C,6-9,226,20,Wake Forest,USA,2017,1.0,19.0,29,West,Northwest,Utah,Jazz,Utah Jazz,UTA
+102,Zach,Collins,F-C,6-11,250,23,Gonzaga,USA,2017,1.0,10.0,27,West,Southwest,San Antonio,Spurs,San Antonio Spurs,SAS
+104,Mike,Conley,G,6-0,175,10,Ohio State,USA,2007,1.0,4.0,18,West,Northwest,Minnesota,Timberwolves,Minnesota Timberwolves,MIN
+105,Pat,Connaughton,G,6-5,209,24,Notre Dame,USA,2015,2.0,41.0,17,East,Central,Milwaukee,Bucks,Milwaukee Bucks,MIL
+112,Jae,Crowder,F,6-6,235,99,Marquette,USA,2012,2.0,34.0,17,East,Central,Milwaukee,Bucks,Milwaukee Bucks,MIL
+115,Stephen,Curry,G,6-2,185,30,Davidson,USA,2009,1.0,7.0,10,West,Pacific,Golden State,Warriors,Golden State Warriors,GSW
+117,Anthony,Davis,F-C,6-10,253,3,Kentucky,USA,2012,1.0,1.0,14,West,Pacific,Los Angeles,Lakers,Los Angeles Lakers,LAL
+125,DeMar,DeRozan,G,6-6,220,11,Southern California,USA,2009,1.0,9.0,5,East,Central,Chicago,Bulls,Chicago Bulls,CHI
+130,Spencer,Dinwiddie,G,6-5,215,26,Colorado,USA,2014,2.0,38.0,14,West,Pacific,Los Angeles,Lakers,Los Angeles Lakers,LAL
+131,Donte,DiVincenzo,G,6-4,203,0,Villanova,USA,2018,1.0,17.0,20,East,Atlantic,New York,Knicks,New York Knicks,NYK
+132,Luka,Doncic,F-G,6-7,230,77,Real Madrid,Slovenia,2018,1.0,3.0,7,West,Southwest,Dallas,Mavericks,Dallas Mavericks,DAL
+137,Andre,Drummond,C,6-11,279,3,Connecticut,USA,2012,1.0,9.0,5,East,Central,Chicago,Bulls,Chicago Bulls,CHI
+139,Kris,Dunn,G,6-3,205,11,Providence,USA,2016,1.0,5.0,29,West,Northwest,Utah,Jazz,Utah Jazz,UTA
+140,Kevin,Durant,F,6-11,240,35,Texas,USA,2007,1.0,2.0,24,West,Pacific,Phoenix,Suns,Phoenix Suns,PHX
+145,Joel,Embiid,F-C,7-0,280,21,Kansas,Cameroon,2014,1.0,3.0,23,East,Atlantic,Philadelphia,76ers,Philadelphia 76ers,PHI
+151,Dante,Exum,G,6-5,214,0,Australian Institute of Sport,Australia,2014,1.0,5.0,7,West,Southwest,Dallas,Mavericks,Dallas Mavericks,DAL
+160,Evan,Fournier,G-F,6-6,205,31,Poitiers Basket 86,France,2012,1.0,20.0,9,East,Central,Detroit,Pistons,Detroit Pistons,DET
+161,De'Aaron,Fox,G,6-3,185,5,Kentucky,USA,2017,1.0,5.0,26,West,Pacific,Sacramento,Kings,Sacramento Kings,SAC
+165,Markelle,Fultz,G,6-4,209,20,Washington,USA,2017,1.0,1.0,22,East,Southeast,Orlando,Magic,Orlando Magic,ORL
+167,Danilo,Gallinari,F,6-10,236,12,Olimpia Milano,Italy,2008,1.0,6.0,17,East,Central,Milwaukee,Bucks,Milwaukee Bucks,MIL
+172,Paul,George,F,6-8,220,13,Fresno State,USA,2010,1.0,10.0,13,West,Pacific,LA,Clippers,LA Clippers,LAC
+173,Taj,Gibson,F,6-9,232,67,Southern California,USA,2009,1.0,26.0,9,East,Central,Detroit,Pistons,Detroit Pistons,DET
+174,Harry,Giles III,F-C,6-10,240,20,Duke,USA,2017,1.0,20.0,14,West,Pacific,Los Angeles,Lakers,Los Angeles Lakers,LAL
+175,Shai,Gilgeous-Alexander,G,6-6,195,2,Kentucky,Canada,2018,1.0,11.0,21,West,Northwest,Oklahoma City,Thunder,Oklahoma City Thunder,OKC
+176,Rudy,Gobert,C,7-1,258,27,Cholet,France,2013,1.0,27.0,18,West,Northwest,Minnesota,Timberwolves,Minnesota Timberwolves,MIN
+177,Aaron,Gordon,F,6-8,235,50,Arizona,USA,2014,1.0,4.0,8,West,Northwest,Denver,Nuggets,Denver Nuggets,DEN
+178,Eric,Gordon,G,6-3,215,23,Indiana,USA,2008,1.0,7.0,24,West,Pacific,Phoenix,Suns,Phoenix Suns,PHX
+180,Devonte',Graham,G,6-1,195,4,Kansas,USA,2018,2.0,34.0,27,West,Southwest,San Antonio,Spurs,San Antonio Spurs,SAS
+182,Jerami,Grant,F,6-7,210,9,Syracuse,USA,2014,2.0,39.0,25,West,Northwest,Portland,Trail Blazers,Portland Trail Blazers,POR
+185,Draymond,Green,F,6-6,230,23,Michigan State,USA,2012,2.0,35.0,10,West,Pacific,Golden State,Warriors,Golden State Warriors,GSW
+188,Jeff,Green,F,6-8,235,32,Georgetown,USA,2007,1.0,5.0,11,West,Southwest,Houston,Rockets,Houston Rockets,HOU
+191,Tim,Hardaway Jr.,G,6-5,205,10,Michigan,USA,2013,1.0,24.0,7,West,Southwest,Dallas,Mavericks,Dallas Mavericks,DAL
+192,James,Harden,G,6-5,220,1,Arizona State,USA,2009,1.0,3.0,13,West,Pacific,LA,Clippers,LA Clippers,LAC
+196,Gary,Harris,G,6-4,210,14,Michigan State,USA,2014,1.0,19.0,22,East,Southeast,Orlando,Magic,Orlando Magic,ORL
+200,Tobias,Harris,F,6-8,226,12,Tennessee,USA,2011,1.0,19.0,23,East,Atlantic,Philadelphia,76ers,Philadelphia 76ers,PHI
+201,Isaiah,Hartenstein,F-C,7-0,250,55,Zalgiris,Germany,2017,2.0,43.0,20,East,Atlantic,New York,Knicks,New York Knicks,NYK
+202,Josh,Hart,G,6-4,215,3,Villanova,USA,2017,1.0,30.0,20,East,Atlantic,New York,Knicks,New York Knicks,NYK
+204,Gordon,Hayward,F,6-7,225,33,Butler,USA,2010,1.0,9.0,21,West,Northwest,Oklahoma City,Thunder,Oklahoma City Thunder,OKC
+210,Buddy,Hield,G,6-4,220,17,Oklahoma,Bahamas,2016,1.0,6.0,23,East,Atlantic,Philadelphia,76ers,Philadelphia 76ers,PHI
+213,Aaron,Holiday,G,6-0,185,0,UCLA,USA,2018,1.0,23.0,11,West,Southwest,Houston,Rockets,Houston Rockets,HOU
+214,Jrue,Holiday,G,6-4,205,4,UCLA,USA,2009,1.0,17.0,2,East,Atlantic,Boston,Celtics,Boston Celtics,BOS
+217,Richaun,Holmes,F-C,6-9,235,22,Bowling Green,USA,2015,2.0,37.0,30,East,Southeast,Washington,Wizards,Washington Wizards,WAS
+219,Al,Horford,C-F,6-9,240,42,Florida,Dominican Republic,2007,1.0,3.0,2,East,Atlantic,Boston,Celtics,Boston Celtics,BOS
+221,Kevin,Huerter,G,6-7,198,9,Maryland,USA,2018,1.0,19.0,26,West,Pacific,Sacramento,Kings,Sacramento Kings,SAC
+227,Brandon,Ingram,F,6-8,190,14,Duke,USA,2016,1.0,2.0,19,West,Southwest,New Orleans,Pelicans,New Orleans Pelicans,NOP
+228,Kyrie,Irving,G,6-2,195,11,Duke,Australia,2011,1.0,1.0,7,West,Southwest,Dallas,Mavericks,Dallas Mavericks,DAL
+229,Jonathan,Isaac,F,6-10,230,1,Florida State,USA,2017,1.0,6.0,22,East,Southeast,Orlando,Magic,Orlando Magic,ORL
+231,Jaren,Jackson Jr.,F-C,6-10,242,13,Michigan State,USA,2018,1.0,4.0,15,West,Southwest,Memphis,Grizzlies,Memphis Grizzlies,MEM
+236,Reggie,Jackson,G,6-2,208,7,Boston College,USA,2011,1.0,24.0,8,West,Northwest,Denver,Nuggets,Denver Nuggets,DEN
+237,LeBron,James,F,6-9,250,23,St. Vincent-St. Mary HS (OH),USA,2003,1.0,1.0,14,West,Pacific,Los Angeles,Lakers,Los Angeles Lakers,LAL
+242,James,Johnson,F,6-7,240,16,Wake Forest,USA,2009,1.0,16.0,12,East,Central,Indiana,Pacers,Indiana Pacers,IND
+246,Nikola,Jokic,C,6-11,284,15,Mega Basket,Serbia,2014,2.0,41.0,8,West,Northwest,Denver,Nuggets,Denver Nuggets,DEN
+248,Damian,Jones,C,6-10,245,30,Vanderbilt,USA,2016,1.0,30.0,6,East,Central,Cleveland,Cavaliers,Cleveland Cavaliers,CLE
+249,Tyus,Jones,G,6-1,196,5,Duke,USA,2015,1.0,24.0,30,East,Southeast,Washington,Wizards,Washington Wizards,WAS
+250,DeAndre,Jordan,C,6-11,265,6,Texas A&M,USA,2008,2.0,35.0,8,West,Northwest,Denver,Nuggets,Denver Nuggets,DEN
+254,Luke,Kennard,G,6-5,206,10,Duke,USA,2017,1.0,12.0,15,West,Southwest,Memphis,Grizzlies,Memphis Grizzlies,MEM
+265,Kyle,Kuzma,F,6-9,221,33,Utah,USA,2017,1.0,27.0,30,East,Southeast,Washington,Wizards,Washington Wizards,WAS
+268,Zach,LaVine,G,6-5,200,8,UCLA,USA,2014,1.0,13.0,5,East,Central,Chicago,Bulls,Chicago Bulls,CHI
+273,Alex,Len,C,7-0,250,25,Maryland,Ukraine,2013,1.0,5.0,26,West,Pacific,Sacramento,Kings,Sacramento Kings,SAC
+274,Kawhi,Leonard,F,6-7,225,2,San Diego State,USA,2011,1.0,15.0,13,West,Pacific,LA,Clippers,LA Clippers,LAC
+277,Caris,LeVert,G,6-6,205,3,Michigan,USA,2016,1.0,20.0,6,East,Central,Cleveland,Cavaliers,Cleveland Cavaliers,CLE
+278,Damian,Lillard,G,6-2,195,0,Weber State,USA,2012,1.0,6.0,17,East,Central,Milwaukee,Bucks,Milwaukee Bucks,MIL
+282,Kevon,Looney,F,6-9,222,5,UCLA,USA,2015,1.0,30.0,10,West,Pacific,Golden State,Warriors,Golden State Warriors,GSW
+283,Brook,Lopez,C,7-1,282,11,Stanford,USA,2008,1.0,10.0,17,East,Central,Milwaukee,Bucks,Milwaukee Bucks,MIL
+285,Kevin,Love,F-C,6-8,251,42,UCLA,USA,2008,1.0,5.0,16,East,Southeast,Miami,Heat,Miami Heat,MIA
+286,Kyle,Lowry,G,6-0,196,7,Villanova,USA,2006,1.0,24.0,23,East,Atlantic,Philadelphia,76ers,Philadelphia 76ers,PHI
+290,Trey,Lyles,F,6-9,234,41,Kentucky,Canada,2015,1.0,12.0,26,West,Pacific,Sacramento,Kings,Sacramento Kings,SAC
+297,Lauri,Markkanen,F,7-0,240,23,Arizona,Finland,2017,1.0,7.0,29,West,Northwest,Utah,Jazz,Utah Jazz,UTA
+303,CJ,McCollum,G,6-3,190,3,Lehigh,USA,2013,1.0,10.0,19,West,Southwest,New Orleans,Pelicans,New Orleans Pelicans,NOP
+305,Doug,McDermott,F,6-6,225,20,Creighton,USA,2014,1.0,11.0,12,East,Central,Indiana,Pacers,Indiana Pacers,IND
+306,JaVale,McGee,C,7-0,270,00,Nevada,USA,2008,1.0,18.0,26,West,Pacific,Sacramento,Kings,Sacramento Kings,SAC
+313,De'Anthony,Melton,G,6-3,200,8,Southern California,USA,2018,2.0,46.0,23,East,Atlantic,Philadelphia,76ers,Philadelphia 76ers,PHI
+314,Chimezie,Metu,F,6-10,225,4,Southern California,USA,2018,2.0,49.0,9,East,Central,Detroit,Pistons,Detroit Pistons,DET
+315,Khris,Middleton,F,6-7,222,22,Texas A&M,USA,2012,2.0,39.0,17,East,Central,Milwaukee,Bucks,Milwaukee Bucks,MIL
+319,Patty,Mills,G,6-2,180,8,St. Mary's,Australia,2009,2.0,55.0,16,East,Southeast,Miami,Heat,Miami Heat,MIA
+320,Shake,Milton,G,6-5,205,13,Southern Methodist,USA,2018,2.0,54.0,20,East,Atlantic,New York,Knicks,New York Knicks,NYK
+322,Donovan,Mitchell,G,6-3,215,45,Louisville,USA,2017,1.0,13.0,6,East,Central,Cleveland,Cavaliers,Cleveland Cavaliers,CLE
+324,Malik,Monk,G,6-3,200,0,Kentucky,USA,2017,1.0,11.0,26,West,Pacific,Sacramento,Kings,Sacramento Kings,SAC
+328,Marcus,Morris,F,6-8,218,24,Kansas,USA,2011,1.0,14.0,6,East,Central,Cleveland,Cavaliers,Cleveland Cavaliers,CLE
+329,Markieff,Morris,F,6-9,245,88,Kansas,USA,2011,1.0,13.0,7,West,Southwest,Dallas,Mavericks,Dallas Mavericks,DAL
+330,Monte,Morris,G,6-2,183,23,Iowa State,USA,2017,2.0,51.0,18,West,Northwest,Minnesota,Timberwolves,Minnesota Timberwolves,MIN
+334,Dejounte,Murray,G,6-5,180,5,Washington,USA,2016,1.0,29.0,1,East,Southeast,Atlanta,Hawks,Atlanta Hawks,ATL
+335,Jamal,Murray,G,6-4,215,27,Kentucky,Canada,2016,1.0,7.0,8,West,Northwest,Denver,Nuggets,Denver Nuggets,DEN
+337,Mike,Muscala,F-C,6-10,240,50,Bucknell,USA,2013,2.0,44.0,21,West,Northwest,Oklahoma City,Thunder,Oklahoma City Thunder,OKC
+338,Svi,Mykhailiuk,G,6-7,205,50,Kansas,Ukraine,2018,2.0,47.0,2,East,Atlantic,Boston,Celtics,Boston Celtics,BOS
+340,Larry,Nance Jr.,F,6-8,245,22,Wyoming,USA,2015,1.0,27.0,19,West,Southwest,New Orleans,Pelicans,New Orleans Pelicans,NOP
+344,Georges,Niang,F,6-7,230,20,Iowa State,USA,2016,2.0,50.0,6,East,Central,Cleveland,Cavaliers,Cleveland Cavaliers,CLE
+349,Jusuf,Nurkic,C,7-0,290,20,Cedevita,Bosnia and Herzegovina,2014,1.0,16.0,24,West,Pacific,Phoenix,Suns,Phoenix Suns,PHX
+356,Josh,Okogie,G,6-4,213,2,Georgia Tech,Nigeria,2018,1.0,20.0,24,West,Pacific,Phoenix,Suns,Phoenix Suns,PHX
+358,Kelly,Olynyk,F,6-11,240,41,Gonzaga,Canada,2013,1.0,13.0,28,East,Atlantic,Toronto,Raptors,Toronto Raptors,TOR
+359,Cedi,Osman,F,6-7,230,16,Anadolu Efes,Turkey,2015,2.0,31.0,27,West,Southwest,San Antonio,Spurs,San Antonio Spurs,SAS
+360,Kelly,Oubre Jr.,F,6-7,203,9,Kansas,USA,2015,1.0,15.0,23,East,Atlantic,Philadelphia,76ers,Philadelphia 76ers,PHI
+367,Chris,Paul,G,6-0,175,3,Wake Forest,USA,2005,1.0,4.0,10,West,Pacific,Golden State,Warriors,Golden State Warriors,GSW
+368,Cameron,Payne,G,6-3,183,22,Murray State,USA,2015,1.0,14.0,23,East,Atlantic,Philadelphia,76ers,Philadelphia 76ers,PHI
+371,Mason,Plumlee,F-C,6-10,254,44,Duke,USA,2013,1.0,22.0,13,West,Pacific,LA,Clippers,LA Clippers,LAC
+373,Jakob,Poeltl,C,7-0,260,19,Utah,Austria,2016,1.0,9.0,28,East,Atlantic,Toronto,Raptors,Toronto Raptors,TOR
+375,Michael,Porter Jr.,F,6-10,218,1,Missouri,USA,2018,1.0,14.0,8,West,Northwest,Denver,Nuggets,Denver Nuggets,DEN
+377,Bobby,Portis,F,6-10,250,9,Arkansas,USA,2015,1.0,22.0,17,East,Central,Milwaukee,Bucks,Milwaukee Bucks,MIL
+378,Kristaps,Porzingis,F-C,7-2,240,8,Cajasol Sevilla,Latvia,2015,1.0,4.0,2,East,Atlantic,Boston,Celtics,Boston Celtics,BOS
+379,Dwight,Powell,F-C,6-10,240,7,Stanford,Canada,2014,2.0,45.0,7,West,Southwest,Dallas,Mavericks,Dallas Mavericks,DAL
+380,Norman,Powell,F-G,6-4,215,24,UCLA,USA,2015,2.0,46.0,13,West,Pacific,LA,Clippers,LA Clippers,LAC
+383,Taurean,Prince,F,6-6,218,12,Baylor,USA,2016,1.0,12.0,14,West,Pacific,Los Angeles,Lakers,Los Angeles Lakers,LAL
+387,Julius,Randle,F,6-8,250,30,Kentucky,USA,2014,1.0,7.0,20,East,Atlantic,New York,Knicks,New York Knicks,NYK
+391,Josh,Richardson,G-F,6-5,200,0,Tennessee,USA,2015,2.0,40.0,16,East,Southeast,Miami,Heat,Miami Heat,MIA
+398,Jerome,Robinson,G,6-5,190,18,Boston College,USA,2018,1.0,13.0,10,West,Pacific,Golden State,Warriors,Golden State Warriors,GSW
+399,Mitchell,Robinson,C,7-0,240,23,Western Kentucky,USA,2018,2.0,36.0,20,East,Atlantic,New York,Knicks,New York Knicks,NYK
+401,Derrick,Rose,G,6-3,200,23,Memphis,USA,2008,1.0,1.0,15,West,Southwest,Memphis,Grizzlies,Memphis Grizzlies,MEM
+403,Terry,Rozier,G,6-1,190,2,Louisville,USA,2015,1.0,16.0,16,East,Southeast,Miami,Heat,Miami Heat,MIA
+405,D'Angelo,Russell,G,6-3,193,1,Ohio State,USA,2015,1.0,2.0,14,West,Pacific,Los Angeles,Lakers,Los Angeles Lakers,LAL
+406,Domantas,Sabonis,F,6-10,240,10,Gonzaga,Lithuania,2016,1.0,11.0,26,West,Pacific,Sacramento,Kings,Sacramento Kings,SAC
+407,Dario,Saric,F,6-10,225,20,Anadolu Efes,Croatia,2014,1.0,12.0,10,West,Pacific,Golden State,Warriors,Golden State Warriors,GSW
+409,Dennis,Schroder,G,6-1,175,17,Braunschweig,Germany,2013,1.0,17.0,3,East,Atlantic,Brooklyn,Nets,Brooklyn Nets,BKN
+413,Collin,Sexton,G,6-3,190,2,Alabama,USA,2018,1.0,8.0,29,West,Northwest,Utah,Jazz,Utah Jazz,UTA
+414,Landry,Shamet,G,6-4,190,20,Wichita State,USA,2018,1.0,26.0,30,East,Southeast,Washington,Wizards,Washington Wizards,WAS
+416,Pascal,Siakam,F,6-8,245,43,New Mexico State,Cameroon,2016,1.0,27.0,12,East,Central,Indiana,Pacers,Indiana Pacers,IND
+417,Ben,Simmons,G-F,6-10,240,10,Louisiana State,Australia,2016,1.0,1.0,3,East,Atlantic,Brooklyn,Nets,Brooklyn Nets,BKN
+419,Anfernee,Simons,G,6-3,193,1,Edgewater HS (FL),USA,2018,1.0,24.0,25,West,Northwest,Portland,Trail Blazers,Portland Trail Blazers,POR
+420,Marcus,Smart,G,6-3,220,36,Oklahoma State,USA,2014,1.0,6.0,15,West,Southwest,Memphis,Grizzlies,Memphis Grizzlies,MEM
+421,Dennis,Smith Jr.,G,6-3,205,4,North Carolina State,USA,2017,1.0,9.0,3,East,Atlantic,Brooklyn,Nets,Brooklyn Nets,BKN
+434,Jayson,Tatum,F,6-8,210,0,Duke,USA,2017,1.0,3.0,2,East,Atlantic,Boston,Celtics,Boston Celtics,BOS
+440,Isaiah,Thomas,G,5-9,185,4,Washington,USA,2011,2.0,60.0,24,West,Pacific,Phoenix,Suns,Phoenix Suns,PHX
+443,Klay,Thompson,G,6-6,220,11,Washington State,USA,2011,1.0,11.0,10,West,Pacific,Golden State,Warriors,Golden State Warriors,GSW
+444,Tristan,Thompson,C-F,6-9,254,13,Texas-Austin,Canada,2011,1.0,4.0,6,East,Central,Cleveland,Cavaliers,Cleveland Cavaliers,CLE
+447,Karl-Anthony,Towns,C,7-0,248,32,Kentucky,USA,2015,1.0,1.0,18,West,Northwest,Minnesota,Timberwolves,Minnesota Timberwolves,MIN
+450,PJ,Tucker,F,6-5,245,17,Texas,USA,2006,2.0,35.0,13,West,Pacific,LA,Clippers,LA Clippers,LAC
+452,Myles,Turner,C-F,6-11,250,33,Texas,USA,2015,1.0,11.0,12,East,Central,Indiana,Pacers,Indiana Pacers,IND
+455,Jonas,Valanciunas,C,6-11,265,17,Lietuvos rytas Vilnius,Lithuania,2011,1.0,5.0,19,West,Southwest,New Orleans,Pelicans,New Orleans Pelicans,NOP
+457,Jarred,Vanderbilt,F,6-8,214,2,Kentucky,USA,2018,2.0,41.0,14,West,Pacific,Los Angeles,Lakers,Los Angeles Lakers,LAL
+460,Nikola,Vucevic,C,6-10,260,9,Southern California,Montenegro,2011,1.0,16.0,5,East,Central,Chicago,Bulls,Chicago Bulls,CHI
+462,Moritz,Wagner,C,6-11,245,21,Michigan,Germany,2018,1.0,25.0,22,East,Southeast,Orlando,Magic,Orlando Magic,ORL
+464,Lonnie,Walker IV,G,6-4,204,8,Miami,USA,2018,1.0,18.0,3,East,Atlantic,Brooklyn,Nets,Brooklyn Nets,BKN
+469,T.J.,Warren,F,6-8,220,24,North Carolina State,USA,2014,1.0,14.0,18,West,Northwest,Minnesota,Timberwolves,Minnesota Timberwolves,MIN
+472,Russell,Westbrook,G,6-4,200,0,UCLA,USA,2008,1.0,4.0,13,West,Pacific,LA,Clippers,LA Clippers,LAC
+473,Derrick,White,G,6-4,190,9,Colorado,USA,2017,1.0,29.0,2,East,Atlantic,Boston,Celtics,Boston Celtics,BOS
+475,Andrew,Wiggins,F-G,6-7,197,22,Kansas,Canada,2014,1.0,1.0,10,West,Pacific,Golden State,Warriors,Golden State Warriors,GSW
+476,Robert,Williams III,C-F,6-9,249,35,Texas A&M,USA,2018,1.0,27.0,25,West,Northwest,Portland,Trail Blazers,Portland Trail Blazers,POR
+484,D.J.,Wilson,F,6-10,231,23,Michigan,USA,2017,1.0,17.0,23,East,Atlantic,Philadelphia,76ers,Philadelphia 76ers,PHI
+487,Delon,Wright,G,6-5,185,4,Utah,USA,2015,1.0,20.0,16,East,Southeast,Miami,Heat,Miami Heat,MIA
+489,Thaddeus,Young,F,6-8,225,30,Georgia Tech,USA,2007,1.0,12.0,24,West,Pacific,Phoenix,Suns,Phoenix Suns,PHX
+490,Trae,Young,G,6-1,164,11,Oklahoma,USA,2018,1.0,5.0,1,East,Southeast,Atlanta,Hawks,Atlanta Hawks,ATL
+491,Cody,Zeller,C,6-11,240,40,Indiana,USA,2013,1.0,4.0,19,West,Southwest,New Orleans,Pelicans,New Orleans Pelicans,NOP
+493,Ivica,Zubac,C,7-0,240,40,Mega Basket,Croatia,2016,2.0,32.0,13,West,Pacific,LA,Clippers,LA Clippers,LAC
+2148,Thanasis,Antetokounmpo,,6-7,219,43,Panathinaikos,Greece,2014,2.0,51.0,17,East,Central,Milwaukee,Bucks,Milwaukee Bucks,MIL
+3089,Gary,Trent Jr.,,6-5,204,33,Duke,USA,2018,2.0,37.0,28,East,Atlantic,Toronto,Raptors,Toronto Raptors,TOR
+666400,Nickeil,Alexander-Walker,G,6-5,205,9,Virginia Tech,Canada,2019,1.0,17.0,18,West,Northwest,Minnesota,Timberwolves,Minnesota Timberwolves,MIN
+666423,RJ,Barrett,F-G,6-6,214,9,Duke,Canada,2019,1.0,3.0,28,East,Atlantic,Toronto,Raptors,Toronto Raptors,TOR
+666429,Darius,Bazley,F,6-9,216,26,Princeton HS (OH),USA,2019,1.0,23.0,29,West,Northwest,Utah,Jazz,Utah Jazz,UTA
+666442,Goga,Bitadze,C,6-10,250,35,Mega Basket,Georgia,2019,1.0,18.0,22,East,Southeast,Orlando,Magic,Orlando Magic,ORL
+666451,Bol,Bol,C,7-3,220,11,Oregon,Sudan,2019,2.0,44.0,24,West,Pacific,Phoenix,Suns,Phoenix Suns,PHX
+666489,Vlatko,Cancar,F,6-8,236,31,San Pablo Burgos,Slovenia,2017,2.0,49.0,8,West,Northwest,Denver,Nuggets,Denver Nuggets,DEN
+666505,Brandon,Clarke,F,6-8,215,15,Gonzaga,Canada,2019,1.0,21.0,15,West,Southwest,Memphis,Grizzlies,Memphis Grizzlies,MEM
+666508,Nicolas,Claxton,F-C,6-11,215,33,Georgia,USA,2019,2.0,31.0,3,East,Atlantic,Brooklyn,Nets,Brooklyn Nets,BKN
+666564,Bruno,Fernando,F,6-9,240,24,Maryland,Angola,2019,2.0,34.0,1,East,Southeast,Atlanta,Hawks,Atlanta Hawks,ATL
+666577,Daniel,Gafford,F,6-10,234,21,Arkansas,USA,2019,2.0,38.0,7,West,Southwest,Dallas,Mavericks,Dallas Mavericks,DAL
+666581,Darius,Garland,G,6-1,192,10,Vanderbilt,USA,2019,1.0,5.0,6,East,Central,Cleveland,Cavaliers,Cleveland Cavaliers,CLE
+666609,Rui,Hachimura,F,6-8,230,28,Gonzaga,Japan,2019,1.0,9.0,14,West,Pacific,Los Angeles,Lakers,Los Angeles Lakers,LAL
+666626,Jaxson,Hayes,C,7-0,220,11,Texas,USA,2019,1.0,8.0,14,West,Pacific,Los Angeles,Lakers,Los Angeles Lakers,LAL
+666633,Tyler,Herro,G,6-5,195,14,Kentucky,USA,2019,1.0,13.0,16,East,Southeast,Miami,Heat,Miami Heat,MIA
+666650,Talen,Horton-Tucker,G,6-4,234,5,Iowa State,USA,2019,2.0,46.0,29,West,Northwest,Utah,Jazz,Utah Jazz,UTA
+666656,De'Andre,Hunter,F,6-8,221,12,Virginia,USA,2019,1.0,4.0,1,East,Southeast,Atlanta,Hawks,Atlanta Hawks,ATL
+666676,Ty,Jerome,G,6-5,195,2,Virginia,USA,2019,1.0,24.0,6,East,Central,Cleveland,Cavaliers,Cleveland Cavaliers,CLE
+666679,Cameron,Johnson,F,6-8,210,2,North Carolina,USA,2019,1.0,11.0,3,East,Atlantic,Brooklyn,Nets,Brooklyn Nets,BKN
+666682,Keldon,Johnson,F,6-5,220,3,Kentucky,USA,2019,1.0,29.0,27,West,Southwest,San Antonio,Spurs,San Antonio Spurs,SAS
+666729,Nassir,Little,F,6-6,220,25,North Carolina,USA,2019,1.0,25.0,24,West,Pacific,Phoenix,Suns,Phoenix Suns,PHX
+666743,Terance,Mann,G,6-5,215,14,Florida State,USA,2019,2.0,48.0,13,West,Pacific,LA,Clippers,LA Clippers,LAC
+666748,Cody,Martin,F,6-6,205,11,Nevada,USA,2019,2.0,36.0,4,East,Southeast,Charlotte,Hornets,Charlotte Hornets,CHA
+666762,Jalen,McDaniels,F,6-9,190,2,San Diego State,USA,2019,2.0,52.0,28,East,Atlantic,Toronto,Raptors,Toronto Raptors,TOR
+666786,Ja,Morant,G,6-2,174,12,Murray State,USA,2019,1.0,2.0,15,West,Southwest,Memphis,Grizzlies,Memphis Grizzlies,MEM
+666818,Chuma,Okeke,F,6-7,229,3,Auburn,USA,2019,1.0,16.0,22,East,Southeast,Orlando,Magic,Orlando Magic,ORL
+666848,Jordan,Poole,G,6-4,194,13,Michigan,USA,2019,1.0,28.0,30,East,Southeast,Washington,Wizards,Washington Wizards,WAS
+666860,Cameron,Reddish,F-G,6-7,217,5,Duke,USA,2019,1.0,10.0,14,West,Pacific,Los Angeles,Lakers,Los Angeles Lakers,LAL
+666881,Luka,Samanic,F,6-10,227,19,Union Olimpija,Croatia,2019,1.0,19.0,29,West,Northwest,Utah,Jazz,Utah Jazz,UTA
+666885,Admiral,Schofield,F,6-5,241,25,Tennessee,United Kingdom,2019,2.0,42.0,22,East,Southeast,Orlando,Magic,Orlando Magic,ORL
+666923,Matisse,Thybulle,G-F,6-5,201,4,Washington,USA,2019,1.0,20.0,25,West,Northwest,Portland,Trail Blazers,Portland Trail Blazers,POR
+666950,P.J.,Washington,F,6-7,230,25,Kentucky,USA,2019,1.0,12.0,7,West,Southwest,Dallas,Mavericks,Dallas Mavericks,DAL
+666956,Coby,White,G,6-5,195,0,North Carolina,USA,2019,1.0,7.0,5,East,Central,Chicago,Bulls,Chicago Bulls,CHI
+666965,Grant,Williams,F,6-6,236,2,Tennessee,USA,2019,1.0,22.0,4,East,Southeast,Charlotte,Hornets,Charlotte Hornets,CHA
+666969,Zion,Williamson,F,6-6,284,1,Duke,USA,2019,1.0,1.0,19,West,Southwest,New Orleans,Pelicans,New Orleans Pelicans,NOP
+666971,Dylan,Windler,G-F,6-7,196,20,Belmont,USA,2019,1.0,26.0,1,East,Southeast,Atlanta,Hawks,Atlanta Hawks,ATL
+3547095,Udoka,Azubuike,C-F,6-11,270,27,Kansas,Nigeria,2020,1.0,27.0,24,West,Pacific,Phoenix,Suns,Phoenix Suns,PHX
+3547207,Jordan,Nwora,F,6-8,225,13,Louisville,USA,2020,2.0,45.0,28,East,Atlantic,Toronto,Raptors,Toronto Raptors,TOR
+3547238,Anthony,Edwards,G,6-4,225,5,Georgia,USA,2020,1.0,1.0,18,West,Northwest,Minnesota,Timberwolves,Minnesota Timberwolves,MIN
+3547239,LaMelo,Ball,G,6-7,180,1,Illawarra,USA,2020,1.0,3.0,4,East,Southeast,Charlotte,Hornets,Charlotte Hornets,CHA
+3547240,James,Wiseman,C,6-11,240,13,Memphis,USA,2020,1.0,2.0,9,East,Central,Detroit,Pistons,Detroit Pistons,DET
+3547242,Deni,Avdija,F,6-9,210,8,Maccabi Tel Aviv,Israel,2020,1.0,9.0,30,East,Southeast,Washington,Wizards,Washington Wizards,WAS
+3547243,Obi,Toppin,F,6-9,220,1,Dayton,USA,2020,1.0,8.0,12,East,Central,Indiana,Pacers,Indiana Pacers,IND
+3547244,Onyeka,Okongwu,F-C,6-10,240,17,Southern California,USA,2020,1.0,6.0,1,East,Southeast,Atlanta,Hawks,Atlanta Hawks,ATL
+3547245,Tyrese,Haliburton,G,6-5,185,0,Iowa State,USA,2020,1.0,12.0,12,East,Central,Indiana,Pacers,Indiana Pacers,IND
+3547246,Devin,Vassell,G-F,6-5,200,24,Florida State,USA,2020,1.0,11.0,27,West,Southwest,San Antonio,Spurs,San Antonio Spurs,SAS
+3547247,Isaac,Okoro,F-G,6-5,225,35,Auburn,USA,2020,1.0,5.0,6,East,Central,Cleveland,Cavaliers,Cleveland Cavaliers,CLE
+3547248,Patrick,Williams,F,6-7,215,44,Florida State,USA,2020,1.0,4.0,5,East,Central,Chicago,Bulls,Chicago Bulls,CHI
+3547249,Precious,Achiuwa,F,6-8,243,5,Memphis,Nigeria,2020,1.0,20.0,20,East,Atlantic,New York,Knicks,New York Knicks,NYK
+3547250,Aaron,Nesmith,G-F,6-6,215,23,Vanderbilt,USA,2020,1.0,14.0,12,East,Central,Indiana,Pacers,Indiana Pacers,IND
+3547251,Cole,Anthony,G,6-2,185,50,North Carolina,USA,2020,1.0,15.0,22,East,Southeast,Orlando,Magic,Orlando Magic,ORL
+3547254,Tyrese,Maxey,G,6-2,200,0,Kentucky,USA,2020,1.0,21.0,23,East,Atlantic,Philadelphia,76ers,Philadelphia 76ers,PHI
+3547256,Saddiq,Bey,F,6-7,215,41,Villanova,USA,2020,1.0,19.0,1,East,Southeast,Atlanta,Hawks,Atlanta Hawks,ATL
+3547258,Josh,Green,G,6-5,200,8,Arizona,Australia,2020,1.0,18.0,7,West,Southwest,Dallas,Mavericks,Dallas Mavericks,DAL
+3547259,Jaden,McDaniels,F,6-9,185,3,Washington,USA,2020,1.0,28.0,18,West,Northwest,Minnesota,Timberwolves,Minnesota Timberwolves,MIN
+3547260,Kira,Lewis Jr.,G,6-1,170,13,Alabama,USA,2020,1.0,13.0,29,West,Northwest,Utah,Jazz,Utah Jazz,UTA
+3547264,Jalen,Smith,F-C,6-9,215,25,Maryland,USA,2020,1.0,10.0,12,East,Central,Indiana,Pacers,Indiana Pacers,IND
+3547267,Isaiah,Stewart,F-C,6-8,250,28,Washington,USA,2020,1.0,16.0,9,East,Central,Detroit,Pistons,Detroit Pistons,DET
+3547268,Zeke,Nnaji,F-C,6-9,240,22,Arizona,USA,2020,1.0,22.0,8,West,Northwest,Denver,Nuggets,Denver Nuggets,DEN
+3547269,Immanuel,Quickley,G,6-2,190,5,Kentucky,USA,2020,1.0,25.0,28,East,Atlantic,Toronto,Raptors,Toronto Raptors,TOR
+3547270,Paul,Reed,F,6-9,210,44,DePaul,USA,2020,2.0,58.0,23,East,Atlantic,Philadelphia,76ers,Philadelphia 76ers,PHI
+3547271,Aleksej,Pokusevski,C,7-0,210,17,Olympiacos,Serbia,2020,1.0,17.0,4,East,Southeast,Charlotte,Hornets,Charlotte Hornets,CHA
+3547272,Isaiah,Joe,G,6-3,165,11,Arkansas,USA,2020,2.0,49.0,21,West,Northwest,Oklahoma City,Thunder,Oklahoma City Thunder,OKC
+3547274,Tre,Jones,G,6-1,185,33,Duke,USA,2020,2.0,41.0,27,West,Southwest,San Antonio,Spurs,San Antonio Spurs,SAS
+3547275,Malachi,Flynn,G,6-1,185,18,San Diego State,USA,2020,1.0,29.0,9,East,Central,Detroit,Pistons,Detroit Pistons,DET
+3547276,Payton,Pritchard,G,6-1,195,11,Oregon,USA,2020,1.0,26.0,2,East,Atlantic,Boston,Celtics,Boston Celtics,BOS
+3547282,Nick,Richards,C,7-0,245,4,Kentucky,Jamaica,2020,2.0,42.0,4,East,Southeast,Charlotte,Hornets,Charlotte Hornets,CHA
+3547285,Xavier,Tillman,F,6-7,245,26,Michigan State,USA,2020,2.0,35.0,2,East,Atlantic,Boston,Celtics,Boston Celtics,BOS
+3547287,Desmond,Bane,G,6-5,215,22,TCU,USA,2020,1.0,30.0,15,West,Southwest,Memphis,Grizzlies,Memphis Grizzlies,MEM
+3547289,Skylar,Mays,G,6-3,205,4,Louisiana State,USA,2020,2.0,50.0,14,West,Pacific,Los Angeles,Lakers,Los Angeles Lakers,LAL
+3547294,Kenyon,Martin Jr.,F,6-6,215,1,IMG Academy (FL),USA,2020,2.0,52.0,23,East,Atlantic,Philadelphia,76ers,Philadelphia 76ers,PHI
+3547298,Saben,Lee,G,6-2,183,38,Vanderbilt,USA,2020,2.0,38.0,24,West,Pacific,Phoenix,Suns,Phoenix Suns,PHX
+3547299,Sam,Merrill,G,6-4,205,5,Utah State,USA,2020,2.0,60.0,6,East,Central,Cleveland,Cavaliers,Cleveland Cavaliers,CLE
+4197029,Vasilije,Micic,G,6-3,188,22,Serbia,Serbia,2014,2.0,52.0,4,East,Southeast,Charlotte,Hornets,Charlotte Hornets,CHA
+4197162,Aleksandar,Vezenkov,F,6-8,225,7,"Barcelona, Spain",Bulgaria,2017,2.0,57.0,26,West,Pacific,Sacramento,Kings,Sacramento Kings,SAC
+4197387,Vit,Krejci,G,6-8,195,27,Zaragoza,Czech Republic,2020,2.0,37.0,1,East,Southeast,Atlanta,Hawks,Atlanta Hawks,ATL
+17553967,Neemias,Queta,C,7-0,248,88,Utah State,Portugal,2021,2.0,39.0,2,East,Atlantic,Boston,Celtics,Boston Celtics,BOS
+17553979,Jonathan,Kuminga,F,6-7,225,00,NBA G League Ignite,DRC,2021,1.0,7.0,10,West,Pacific,Golden State,Warriors,Golden State Warriors,GSW
+17553992,Moses,Moody,G,6-5,211,4,Arkansas,USA,2021,1.0,14.0,10,West,Pacific,Golden State,Warriors,Golden State Warriors,GSW
+17553994,Davion,Mitchell,G,6-0,202,15,Baylor,USA,2021,1.0,9.0,26,West,Pacific,Sacramento,Kings,Sacramento Kings,SAC
+17895854,Charles,Bassey,G,6-10,230,28,Western Kentucky,Nigeria,2021,2.0,53.0,27,West,Southwest,San Antonio,Spurs,San Antonio Spurs,SAS
+17895858,Quentin,Grimes,G,6-5,210,24,Houston,USA,2021,1.0,25.0,9,East,Central,Detroit,Pistons,Detroit Pistons,DET
+17895966,Jalen,Green,G,6-4,186,4,NBA G League Ignite,USA,2021,1.0,2.0,11,West,Southwest,Houston,Rockets,Houston Rockets,HOU
+17895983,Ayo,Dosunmu,G,6-5,200,12,Illinois,USA,2021,2.0,38.0,5,East,Central,Chicago,Bulls,Chicago Bulls,CHI
+17896021,Jeremiah,Robinson-Earl,F,6-8,240,50,Villanova,USA,2021,2.0,32.0,19,West,Southwest,New Orleans,Pelicans,New Orleans Pelicans,NOP
+17896022,Brandon,Boston Jr.,G,6-6,188,4,Kentucky,USA,2021,2.0,51.0,13,West,Pacific,LA,Clippers,LA Clippers,LAC
+17896024,Herbert,Jones,F,6-7,206,5,Alabama,USA,2021,2.0,35.0,19,West,Southwest,New Orleans,Pelicans,New Orleans Pelicans,NOP
+17896025,Jaden,Springer,G,6-4,202,44,Tennessee,USA,2021,1.0,28.0,2,East,Atlantic,Boston,Celtics,Boston Celtics,BOS
+17896026,Franz,Wagner,F,6-10,220,22,Michigan,Germany,2021,1.0,8.0,22,East,Southeast,Orlando,Magic,Orlando Magic,ORL
+17896027,Ziaire,Williams,G-F,6-9,185,8,Stanford,USA,2021,1.0,10.0,15,West,Southwest,Memphis,Grizzlies,Memphis Grizzlies,MEM
+17896028,Greg,Brown III,F,6-7,206,36,Texas,USA,2021,2.0,43.0,7,West,Southwest,Dallas,Mavericks,Dallas Mavericks,DAL
+17896030,Chris,Duarte,G,6-5,190,3,Oregon,Dominican Republic,2021,1.0,13.0,26,West,Pacific,Sacramento,Kings,Sacramento Kings,SAC
+17896031,Nah'Shon,Hyland,G,6-2,169,5,Virginia Commonwealth,USA,2021,1.0,26.0,13,West,Pacific,LA,Clippers,LA Clippers,LAC
+17896033,Miles,McBride,G,6-1,195,2,West Virginia,USA,2021,2.0,36.0,20,East,Atlantic,New York,Knicks,New York Knicks,NYK
+17896035,Isaiah,Jackson,F,6-9,205,22,Kentucky,USA,2021,1.0,22.0,12,East,Central,Indiana,Pacers,Indiana Pacers,IND
+17896036,Tre,Mann,G,6-3,178,23,Florida,USA,2021,1.0,18.0,4,East,Southeast,Charlotte,Hornets,Charlotte Hornets,CHA
+17896038,Day'Ron,Sharpe,C,6-9,265,20,North Carolina,USA,2021,1.0,29.0,3,East,Atlantic,Brooklyn,Nets,Brooklyn Nets,BKN
+17896040,Jalen,Johnson,F,6-8,219,1,Duke,USA,2021,1.0,20.0,1,East,Southeast,Atlanta,Hawks,Atlanta Hawks,ATL
+17896041,Keon,Johnson,G,6-5,185,45,Tennessee,USA,2021,1.0,21.0,3,East,Atlantic,Brooklyn,Nets,Brooklyn Nets,BKN
+17896042,Jason,Preston,G,6-3,181,10,Ohio,USA,2021,2.0,33.0,29,West,Northwest,Utah,Jazz,Utah Jazz,UTA
+17896044,Kessler,Edwards,F,6-7,203,17,Pepperdine,USA,2021,2.0,44.0,26,West,Pacific,Sacramento,Kings,Sacramento Kings,SAC
+17896045,Corey,Kispert,F,6-6,224,24,Gonzaga,USA,2021,1.0,15.0,30,East,Southeast,Washington,Wizards,Washington Wizards,WAS
+17896048,Cam,Thomas,G,6-3,210,24,Louisiana State,Japan,2021,1.0,27.0,3,East,Atlantic,Brooklyn,Nets,Brooklyn Nets,BKN
+17896051,Joshua,Primo,G,6-4,189,12,Alabama,Canada,2021,1.0,12.0,13,West,Pacific,LA,Clippers,LA Clippers,LAC
+17896052,RaiQuan,Gray,F,6-7,269,0,Florida State,USA,2021,2.0,59.0,27,West,Southwest,San Antonio,Spurs,San Antonio Spurs,SAS
+17896055,Scottie,Barnes,G-F,6-7,237,4,Florida State,USA,2021,1.0,4.0,28,East,Atlantic,Toronto,Raptors,Toronto Raptors,TOR
+17896056,Luka,Garza,C,6-10,243,55,Iowa,USA,2021,2.0,52.0,18,West,Northwest,Minnesota,Timberwolves,Minnesota Timberwolves,MIN
+17896059,Sandro,Mamukelashvili,F,6-9,240,54,Seton Hall,Georgia,2021,2.0,54.0,27,West,Southwest,San Antonio,Spurs,San Antonio Spurs,SAS
+17896062,Alperen,Sengun,F-C,6-11,243,28,Besiktas,Turkey,2021,1.0,16.0,11,West,Southwest,Houston,Rockets,Houston Rockets,HOU
+17896063,Jericho,Sims,F,6-10,250,45,Texas,USA,2021,2.0,58.0,20,East,Atlantic,New York,Knicks,New York Knicks,NYK
+17896065,Josh,Giddey,G,6-8,216,3,NBA Global Academy,Australia,2021,1.0,6.0,21,West,Northwest,Oklahoma City,Thunder,Oklahoma City Thunder,OKC
+17896067,Santi,Aldama,F,7-0,215,7,Loyola-Maryland,Spain,2021,1.0,30.0,15,West,Southwest,Memphis,Grizzlies,Memphis Grizzlies,MEM
+17896070,Usman,Garuba,F,6-8,229,12,Real Madrid,Spain,2021,1.0,23.0,10,West,Pacific,Golden State,Warriors,Golden State Warriors,GSW
+17896071,Isaiah,Livers,F,6-6,232,12,Michigan,USA,2021,2.0,42.0,30,East,Southeast,Washington,Wizards,Washington Wizards,WAS
+17896073,Jalen,Suggs,G,6-5,205,4,Gonzaga,USA,2021,1.0,5.0,22,East,Southeast,Orlando,Magic,Orlando Magic,ORL
+17896075,Cade,Cunningham,G-F,6-6,220,2,Oklahoma State,USA,2021,1.0,1.0,9,East,Central,Detroit,Pistons,Detroit Pistons,DET
+17896076,Evan,Mobley,F-C,6-11,215,4,Southern California,USA,2021,1.0,3.0,6,East,Central,Cleveland,Cavaliers,Cleveland Cavaliers,CLE
+17896078,Aaron,Wiggins,G,6-5,190,21,Maryland,USA,2021,2.0,55.0,21,West,Northwest,Oklahoma City,Thunder,Oklahoma City Thunder,OKC
+17896094,Dalano,Banton,G,6-8,204,5,Nebraska,Canada,2021,2.0,46.0,25,West,Northwest,Portland,Trail Blazers,Portland Trail Blazers,POR
+18677954,Jared,Butler,G,6-3,193,4,Baylor,USA,2021,2.0,40.0,30,East,Southeast,Washington,Wizards,Washington Wizards,WAS
+18677986,Trey,Murphy III,F,6-8,206,25,Virginia,USA,2021,1.0,17.0,19,West,Southwest,New Orleans,Pelicans,New Orleans Pelicans,NOP
+18678001,JT,Thor,F,6-9,203,21,Auburn,USA,2021,2.0,37.0,4,East,Southeast,Charlotte,Hornets,Charlotte Hornets,CHA
+38017507,Andrew,Nembhard,G-F,6-4,191,2,Gonzaga,Canada,2022,2.0,31.0,12,East,Central,Indiana,Pacers,Indiana Pacers,IND
+38017620,Ochai,Agbaji,G,6-5,215,30,Kansas,USA,2022,1.0,14.0,28,East,Atlantic,Toronto,Raptors,Toronto Raptors,TOR
+38017662,Isaiah,Mobley,F,6-8,238,15,Southern California,USA,2022,2.0,49.0,6,East,Central,Cleveland,Cavaliers,Cleveland Cavaliers,CLE
+38017663,E.J.,Liddell,F,6-6,240,32,Ohio State,USA,2022,2.0,41.0,19,West,Southwest,New Orleans,Pelicans,New Orleans Pelicans,NOP
+38017676,MarJon,Beauchamp,F,6-7,199,3,NBA G League Ignite,USA,2022,1.0,24.0,17,East,Central,Milwaukee,Bucks,Milwaukee Bucks,MIL
+38017677,Dyson,Daniels,G,6-7,199,11,NBA G League Ignite,Australia,2022,1.0,8.0,19,West,Southwest,New Orleans,Pelicans,New Orleans Pelicans,NOP
+38017679,Jaden,Hardy,G,6-3,198,1,NBA G League Ignite,USA,2022,2.0,37.0,7,West,Southwest,Dallas,Mavericks,Dallas Mavericks,DAL
+38017682,Jaden,Ivey,G,6-4,195,23,Purdue,USA,2022,1.0,5.0,9,East,Central,Detroit,Pistons,Detroit Pistons,DET
+38017683,Paolo,Banchero,F,6-10,250,5,Duke,USA,2022,1.0,1.0,22,East,Southeast,Orlando,Magic,Orlando Magic,ORL
+38017684,Jabari,Smith Jr.,F,6-11,220,10,Auburn,USA,2022,1.0,3.0,11,West,Southwest,Houston,Rockets,Houston Rockets,HOU
+38017685,Chet,Holmgren,C-F,7-1,208,7,Gonzaga,USA,2022,1.0,2.0,21,West,Northwest,Oklahoma City,Thunder,Oklahoma City Thunder,OKC
+38017686,Bennedict,Mathurin,G-F,6-5,210,00,Arizona,Canada,2022,1.0,6.0,12,East,Central,Indiana,Pacers,Indiana Pacers,IND
+38017687,Johnny,Davis,G,6-4,195,1,Wisconsin,USA,2022,1.0,10.0,30,East,Southeast,Washington,Wizards,Washington Wizards,WAS
+38017688,Keegan,Murray,F,6-8,225,13,Iowa,USA,2022,1.0,4.0,26,West,Pacific,Sacramento,Kings,Sacramento Kings,SAC
+38017689,AJ,Griffin,F,6-6,220,14,Duke,USA,2022,1.0,16.0,1,East,Southeast,Atlanta,Hawks,Atlanta Hawks,ATL
+38017690,Shaedon,Sharpe,G,6-5,205,17,Kentucky,Canada,2022,1.0,7.0,25,West,Northwest,Portland,Trail Blazers,Portland Trail Blazers,POR
+38017691,TyTy,Washington Jr.,G,6-3,195,23,Kentucky,USA,2022,1.0,29.0,17,East,Central,Milwaukee,Bucks,Milwaukee Bucks,MIL
+38017692,Malaki,Branham,F,6-4,180,22,Ohio State,USA,2022,1.0,20.0,27,West,Southwest,San Antonio,Spurs,San Antonio Spurs,SAS
+38017693,Blake,Wesley,G,6-3,185,14,Notre Dame,USA,2022,1.0,25.0,27,West,Southwest,San Antonio,Spurs,San Antonio Spurs,SAS
+38017694,Jalen,Duren,C,6-10,250,0,Memphis,USA,2022,1.0,13.0,9,East,Central,Detroit,Pistons,Detroit Pistons,DET
+38017695,Tari,Eason,F,6-8,215,17,Louisiana State,USA,2022,1.0,17.0,11,West,Southwest,Houston,Rockets,Houston Rockets,HOU
+38017696,Nikola,Jovic,F,6-10,205,5,Mega Basket,Serbia,2022,1.0,27.0,16,East,Southeast,Miami,Heat,Miami Heat,MIA
+38017697,Max,Christie,G,6-5,190,10,Michigan State,USA,2022,2.0,35.0,14,West,Pacific,Los Angeles,Lakers,Los Angeles Lakers,LAL
+38017698,Mark,Williams,C,7-0,240,5,Duke,USA,2022,1.0,15.0,4,East,Southeast,Charlotte,Hornets,Charlotte Hornets,CHA
+38017699,Jeremy,Sochan,F,6-8,230,10,Baylor,Poland,2022,1.0,9.0,27,West,Southwest,San Antonio,Spurs,San Antonio Spurs,SAS
+38017700,Wendell,Moore Jr.,G,6-5,215,7,Duke,USA,2022,1.0,26.0,18,West,Northwest,Minnesota,Timberwolves,Minnesota Timberwolves,MIN
+38017701,Kendall,Brown,G,6-7,205,10,Baylor,USA,2022,2.0,48.0,12,East,Central,Indiana,Pacers,Indiana Pacers,IND
+38017703,Jalen,Williams,G-F,6-5,211,8,Santa Clara,USA,2022,1.0,12.0,21,West,Northwest,Oklahoma City,Thunder,Oklahoma City Thunder,OKC
+38017704,Patrick,Baldwin Jr.,F,6-9,220,7,Wisconsin-Milwaukee,USA,2022,1.0,28.0,30,East,Southeast,Washington,Wizards,Washington Wizards,WAS
+38017705,Walker,Kessler,C,7-0,245,24,Auburn,USA,2022,1.0,22.0,29,West,Northwest,Utah,Jazz,Utah Jazz,UTA
+38017706,Jaylin,Williams,F,6-9,240,6,Arkansas,USA,2022,2.0,34.0,21,West,Northwest,Oklahoma City,Thunder,Oklahoma City Thunder,OKC
+38017707,JD,Davison,G,6-1,195,20,Alabama,USA,2022,2.0,53.0,2,East,Atlantic,Boston,Celtics,Boston Celtics,BOS
+38017708,Bryce,McGowens,G,6-6,175,7,Nebraska,USA,2022,2.0,40.0,4,East,Southeast,Charlotte,Hornets,Charlotte Hornets,CHA
+38017709,Christian,Braun,G,6-6,220,0,Kansas,USA,2022,1.0,21.0,8,West,Northwest,Denver,Nuggets,Denver Nuggets,DEN
+38017711,Jabari,Walker,F,6-7,227,34,Colorado,USA,2022,2.0,57.0,25,West,Northwest,Portland,Trail Blazers,Portland Trail Blazers,POR
+38017712,Ryan,Rollins,G,6-3,180,55,Toledo,USA,2022,2.0,44.0,17,East,Central,Milwaukee,Bucks,Milwaukee Bucks,MIL
+38017715,Josh,Minott,F,6-8,205,8,Memphis,USA,2022,2.0,45.0,18,West,Northwest,Minnesota,Timberwolves,Minnesota Timberwolves,MIN
+38017716,Ousmane,Dieng,F,6-9,185,13,New Zealand Breakers,France,2022,1.0,11.0,21,West,Northwest,Oklahoma City,Thunder,Oklahoma City Thunder,OKC
+38017719,Dalen,Terry,F,6-7,195,25,Arizona,USA,2022,1.0,18.0,5,East,Central,Chicago,Bulls,Chicago Bulls,CHI
+38017721,Peyton,Watson,G,6-7,200,8,UCLA,USA,2022,1.0,30.0,8,West,Northwest,Denver,Nuggets,Denver Nuggets,DEN
+38017724,Caleb,Houstan,G,6-8,205,2,Michigan,Canada,2022,2.0,32.0,22,East,Southeast,Orlando,Magic,Orlando Magic,ORL
+38017725,Moussa,Diabate,F,6-9,210,25,Michigan,France,2022,2.0,43.0,13,West,Pacific,LA,Clippers,LA Clippers,LAC
+38017728,Jake,LaRavia,F,6-7,235,3,Wake Forest,USA,2022,1.0,19.0,15,West,Southwest,Memphis,Grizzlies,Memphis Grizzlies,MEM
+38017729,David,Roddy,F,6-4,255,21,Colorado State,USA,2022,1.0,23.0,24,West,Pacific,Phoenix,Suns,Phoenix Suns,PHX
+38017731,Vince,Williams Jr.,G,6-4,205,5,Virginia Commonwealth,USA,2022,2.0,47.0,15,West,Southwest,Memphis,Grizzlies,Memphis Grizzlies,MEM
+56677582,Jalen,Pickett,G,6-2,202,24,Penn State,USA,2023,2.0,32.0,8,West,Northwest,Denver,Nuggets,Denver Nuggets,DEN
+56677722,Jalen,Wilson,F,6-6,220,22,Kansas,USA,2023,2.0,51.0,3,East,Atlantic,Brooklyn,Nets,Brooklyn Nets,BKN
+56677747,Scoot,Henderson,G,6-3,202,00,NBA G League Ignite,USA,2023,1.0,3.0,25,West,Northwest,Portland,Trail Blazers,Portland Trail Blazers,POR
+56677776,Julian,Strawther,G,6-6,205,3,Gonzaga,USA,2023,1.0,29.0,8,West,Northwest,Denver,Nuggets,Denver Nuggets,DEN
+56677782,Leonard,Miller,F,6-10,210,33,NBA G League Ignite,Canada,2023,2.0,33.0,18,West,Northwest,Minnesota,Timberwolves,Minnesota Timberwolves,MIN
+56677785,Jaime,Jaquez Jr.,G,6-6,225,11,UCLA,USA,2023,1.0,18.0,16,East,Southeast,Miami,Heat,Miami Heat,MIA
+56677791,Kris,Murray,F,6-8,210,8,Iowa,USA,2023,1.0,23.0,25,West,Northwest,Portland,Trail Blazers,Portland Trail Blazers,POR
+56677792,Marcus,Sasser,G,6-2,195,25,Houston,USA,2023,1.0,25.0,9,East,Central,Detroit,Pistons,Detroit Pistons,DET
+56677794,Isaiah,Wong,G,6-3,185,21,Miami,USA,2023,2.0,55.0,12,East,Central,Indiana,Pacers,Indiana Pacers,IND
+56677799,Trayce,Jackson-Davis,F,6-9,245,32,Indiana,USA,2023,2.0,57.0,10,West,Pacific,Golden State,Warriors,Golden State Warriors,GSW
+56677806,Mouhamed,Gueye,F,6-10,210,18,Washington State,Senegal,2023,2.0,39.0,1,East,Southeast,Atlanta,Hawks,Atlanta Hawks,ATL
+56677817,Sidy,Cissoko,G,6-6,200,25,NBA G League Ignite,France,2023,2.0,44.0,27,West,Southwest,San Antonio,Spurs,San Antonio Spurs,SAS
+56677822,Victor,Wembanyama,F-C,7-4,210,1,Metropolitans 92,France,2023,1.0,1.0,27,West,Southwest,San Antonio,Spurs,San Antonio Spurs,SAS
+56677823,Brandon,Miller,F,6-7,200,24,Alabama,USA,2023,1.0,2.0,4,East,Southeast,Charlotte,Hornets,Charlotte Hornets,CHA
+56677824,Taylor,Hendricks,F,6-9,215,0,Central Florida,USA,2023,1.0,9.0,29,West,Northwest,Utah,Jazz,Utah Jazz,UTA
+56677825,Amen,Thompson,G-F,6-7,200,1,Overtime Elite,USA,2023,1.0,4.0,11,West,Southwest,Houston,Rockets,Houston Rockets,HOU
+56677826,Ausar,Thompson,G-F,6-6,205,9,Overtime Elite,USA,2023,1.0,5.0,9,East,Central,Detroit,Pistons,Detroit Pistons,DET
+56677827,Anthony,Black,G,6-7,200,0,Arkansas,USA,2023,1.0,6.0,22,East,Southeast,Orlando,Magic,Orlando Magic,ORL
+56677828,Gradey,Dick,G,6-6,200,1,Kansas,USA,2023,1.0,13.0,28,East,Atlantic,Toronto,Raptors,Toronto Raptors,TOR
+56677829,Rayan,Rupert,G-F,6-6,185,72,New Zealand Breakers,France,2023,2.0,43.0,25,West,Northwest,Portland,Trail Blazers,Portland Trail Blazers,POR
+56677830,GG,Jackson,F,6-9,210,45,South Carolina,USA,2023,2.0,45.0,15,West,Southwest,Memphis,Grizzlies,Memphis Grizzlies,MEM
+56677831,Cam,Whitmore,F,6-7,230,7,Villanova,USA,2023,1.0,20.0,11,West,Southwest,Houston,Rockets,Houston Rockets,HOU
+56677832,Jarace,Walker,F,6-7,235,5,Houston,USA,2023,1.0,8.0,12,East,Central,Indiana,Pacers,Indiana Pacers,IND
+56677833,Cason,Wallace,G,6-3,195,22,Kentucky,USA,2023,1.0,10.0,21,West,Northwest,Oklahoma City,Thunder,Oklahoma City Thunder,OKC
+56677834,Keyonte,George,G,6-4,185,3,Baylor,USA,2023,1.0,16.0,29,West,Northwest,Utah,Jazz,Utah Jazz,UTA
+56677835,Jalen,Hood-Schifino,G,6-5,215,0,Indiana,USA,2023,1.0,17.0,14,West,Pacific,Los Angeles,Lakers,Los Angeles Lakers,LAL
+56677836,Maxwell,Lewis,F,6-7,195,21,Pepperdine,USA,2023,2.0,40.0,14,West,Pacific,Los Angeles,Lakers,Los Angeles Lakers,LAL
+56677837,Jordan,Hawkins,G,6-5,190,24,Connecticut,USA,2023,1.0,14.0,19,West,Southwest,New Orleans,Pelicans,New Orleans Pelicans,NOP
+56677838,Kobe,Bufkin,G,6-5,195,4,Michigan,USA,2023,1.0,15.0,1,East,Southeast,Atlanta,Hawks,Atlanta Hawks,ATL
+56677839,Jett,Howard,G,6-6,215,13,Michigan,USA,2023,1.0,11.0,22,East,Southeast,Orlando,Magic,Orlando Magic,ORL
+56677840,Dereck,Lively II,C,7-1,230,2,Duke,USA,2023,1.0,12.0,7,West,Southwest,Dallas,Mavericks,Dallas Mavericks,DAL
+56677841,Dariq,Whitehead,F,6-6,220,0,Duke,USA,2023,1.0,22.0,3,East,Atlantic,Brooklyn,Nets,Brooklyn Nets,BKN
+56677842,Brice,Sensabaugh,F,6-5,235,8,Ohio State,USA,2023,1.0,28.0,29,West,Northwest,Utah,Jazz,Utah Jazz,UTA
+56677843,Noah,Clowney,F,6-9,210,21,Alabama,USA,2023,1.0,21.0,3,East,Atlantic,Brooklyn,Nets,Brooklyn Nets,BKN
+56677844,Bilal,Coulibaly,G,6-8,195,0,Metropolitans 92,France,2023,1.0,7.0,30,East,Southeast,Washington,Wizards,Washington Wizards,WAS
+56677845,Colby,Jones,G,6-6,207,20,Xavier,USA,2023,2.0,34.0,26,West,Pacific,Sacramento,Kings,Sacramento Kings,SAC
+56677846,Nick,Smith Jr.,G,6-2,185,8,Arkansas,USA,2023,1.0,27.0,4,East,Southeast,Charlotte,Hornets,Charlotte Hornets,CHA
+56677847,Emoni,Bates,F,6-8,170,21,Eastern Michigan,USA,2023,2.0,49.0,6,East,Central,Cleveland,Cavaliers,Cleveland Cavaliers,CLE
+56677848,Amari,Bailey,G,6-3,185,10,UCLA,USA,2023,2.0,41.0,4,East,Southeast,Charlotte,Hornets,Charlotte Hornets,CHA
+56677849,Kobe,Brown,F,6-7,250,21,Missouri,USA,2023,1.0,30.0,13,West,Pacific,LA,Clippers,LA Clippers,LAC
+56677850,Toumani,Camara,F,6-7,226,33,Dayton,Belgium,2023,2.0,52.0,25,West,Northwest,Portland,Trail Blazers,Portland Trail Blazers,POR
+56677851,Jaylen,Clark,G,6-4,205,0,UCLA,USA,2023,2.0,53.0,18,West,Northwest,Minnesota,Timberwolves,Minnesota Timberwolves,MIN
+56677852,Andre,Jackson Jr.,G,6-6,209,44,Connecticut,USA,2023,2.0,36.0,17,East,Central,Milwaukee,Bucks,Milwaukee Bucks,MIL
+56677853,Keyontae,Johnson,F,6-4,230,18,Kansas State,USA,2023,2.0,50.0,21,West,Northwest,Oklahoma City,Thunder,Oklahoma City Thunder,OKC
+56677854,Chris,Livingston,F,6-6,220,7,Kentucky,USA,2023,2.0,58.0,17,East,Central,Milwaukee,Bucks,Milwaukee Bucks,MIL
+56677855,Seth,Lundy,G,6-4,220,3,Penn State,USA,2023,2.0,46.0,1,East,Southeast,Atlanta,Hawks,Atlanta Hawks,ATL
+56677856,Jordan,Miller,G,6-5,194,11,Miami,USA,2023,2.0,48.0,13,West,Pacific,LA,Clippers,LA Clippers,LAC
+56677857,Julian,Phillips,F,6-8,198,15,Tennessee,USA,2023,2.0,35.0,5,East,Central,Chicago,Bulls,Chicago Bulls,CHI
+56677858,Brandin,Podziemski,G,6-4,205,2,Santa Clara,USA,2023,1.0,19.0,10,West,Pacific,Golden State,Warriors,Golden State Warriors,GSW
+56677859,Olivier-Maxence,Prosper,F,6-7,230,18,Marquette,Canada,2023,1.0,24.0,7,West,Southwest,Dallas,Mavericks,Dallas Mavericks,DAL
+56677861,Ben,Sheppard,G,6-6,190,26,Belmont,USA,2023,1.0,26.0,12,East,Central,Indiana,Pacers,Indiana Pacers,IND
+56677862,Jalen,Slawson,F,6-7,215,18,Furman,USA,2023,2.0,54.0,26,West,Pacific,Sacramento,Kings,Sacramento Kings,SAC
+56677864,Jordan,Walsh,G,6-6,205,27,Arkansas,USA,2023,2.0,38.0,2,East,Atlantic,Boston,Celtics,Boston Celtics,BOS
+56677871,Hunter,Tyson,F,6-8,215,4,Clemson,USA,2023,2.0,37.0,8,West,Northwest,Denver,Nuggets,Denver Nuggets,DEN
+57875092,Gui,Santos,F,6-6,185,15,Minas,Brazil,2022,2.0,55.0,10,West,Pacific,Golden State,Warriors,Golden State Warriors,GSW
+1016384149,Tristan,Vukcevic,F,6-10,220,,Real Madrid,Italy,2023,2.0,42.0,30,East,Southeast,Washington,Wizards,Washington Wizards,WAS
